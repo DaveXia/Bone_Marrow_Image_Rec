@@ -1,0 +1,13 @@
+WELCOME!
+To the project to create a ML tool than can recognise cells in bone marrow aspirates
+
+THE DATASET
+The dataset consists of a number of high quality .jpg images of bone marrow aspirates taken from normal dogs.
+(See Images file)
+
+THE CHALLENGE
+Create algorithm that can take each primary image and create a set of images for all the individual cells on the primary image.  – lets call this the individual cell isolator (ICI)
+
+From these images I can then identify the cell in the image and thus create a training set.
+
+Next create an algorithm that can learn from this training set to identify new cell images that are presented to it.
